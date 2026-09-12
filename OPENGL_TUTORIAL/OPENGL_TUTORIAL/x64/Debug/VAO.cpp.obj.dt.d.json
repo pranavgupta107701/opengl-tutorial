@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\green\\source\\repos\\opengl_tutorial\\opengl_tutorial\\vao.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\green\\source\\repos\\opengl_tutorial\\opengl_tutorial\\vao.h",
+            "c:\\opengl\\include\\glad\\glad.h",
+            "c:\\opengl\\include\\khr\\khrplatform.h",
+            "c:\\users\\green\\source\\repos\\opengl_tutorial\\opengl_tutorial\\vbo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
